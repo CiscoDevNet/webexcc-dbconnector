@@ -20,10 +20,11 @@ This Java SDK is a Java library for consuming Cisco Webex Team's RESTful APIs. P
 
 ## Usage
 
-To start, 
+To start,
 java dbConnector-0.0.1-SNAPSHOT.jar
 
 ## Contributing
+- Jim Wyatt
 
 ## Maintainers
 
